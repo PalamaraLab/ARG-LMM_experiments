@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+temp/
+data/
+
+beagle5.jar
+bolt
+gcta
+impute4
+plink2
+Relate
+RelateFileFormats
